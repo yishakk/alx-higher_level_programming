@@ -6,5 +6,3 @@ You'll soon find that with Python (and the majority of higher level languages), 
 Like C, Python also has a linter / style guide like Betty, called PEP8, also now known as PyCode.
 
 Enjoy!
-
-- Guillaume
